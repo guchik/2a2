@@ -1,0 +1,2481 @@
+{
+  "settings": {
+    "name": "2a2",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Oswald",
+        "textFont": "Open Sans",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": []
+    },
+    "versionFirst": "3.11.1",
+    "uniqCompNum": 74,
+    "versionPublish": "4.6.2",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Appart à 2 , Une nouvelle façon d'acheter ",
+        "meta_descr": "BIENVENUE CHEZ VOUS 2\n C'est Chez Vous !\nC'est aussi chez Lui.\nGrâce à Vous & grâce à Lui !",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#faaf40"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#faaf40"
+            },
+            ".link, .dropdown-item": {
+              "color": "#faaf40"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#faaf40",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-4",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#faaf40",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo2a2rouge-721x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Apart4.2</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"BOURSE.html\">BOURSE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\" \" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">COMMENT CA MARCHE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"INVESTISSEURS.html\">INVESTISSEURS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LOCACHETEURS.html\">LOCACHETEURS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"QUESTIONS.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"SIMULATIONS.html\" aria-expanded=\"false\">SIMULATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACT.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "46px",
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            }
+          },
+          "_anchor": "header1-5",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1000.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.3"
+          },
+          "title": "BIENVENUE CHEZ VOUS 2",
+          "text": "<b>1- C'est Chez Vous ! <br>2- C'est aussi chez Lui.<br>3- C'est grâce à Vous &amp; grâce à Lui !</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"INVESTISSEURS.html\" data-toolbar=\"-mbrBtnMove\">INVESTISSEURS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"LOCACHETEURS.html\" data-toolbar=\"-mbrBtnMove\">LOCACHETEURS</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "30px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "UN CONCEPT SIMPLE ET INNOVANT",
+          "meta": "<br>UNE REPONSE &nbsp;ADAPTEE &nbsp;AU &nbsp;PROBLEME &nbsp;DE &nbsp;LOGEMENT",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-21"
+        },
+        {
+          "_inherit": "features3",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features6",
+          "_anchor": "features6-9",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "5",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title1": "<br><div>Pourquoi Appart A2?</div>",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Un des problèmes récurrents aujourd’hui dans l’acquisition d’un appartement est dans le cas d’un primo accédant de se constituer un apport .<br><br>Et dans le cas d’un investisseur de trouver un bon locataire adhoc.<br>Le concept d’appart A2 est de mettre en relation ces 2 prospects pour un même bien immobilier sous forme de SCI..",
+          "button1": "<a data-app-btn=\"true\" href=\"QUESTIONS.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PLUS D'INFOS</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "edit",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title2": "La Bourse <br>Investisseurs - Locataires",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Inscrivez vous ici aujourdhui à la bourse des investisseurs ou des locataires selon votre cas,<br>pour trouver le partenaire avec lequel vous pourrez construire votre projet commun.<br><br>Cette inscription - sans engagement - nous permet de définir quels sont vos critères pour l'acquisition de votre bien immobilier. <br>Vous définissez où vous souhaitez acheter, quel type de bien, quel est le montant de votre investissement possible. <br><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"QUESTIONS.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PLUS D'INFOS</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "users",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title3": "Comment fonctionne <br>Appart  A2?",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Mr ou Mme A apporte en fonds propres au sein de la SCI les sommes nécessaires à l’acquisition d'un bien immobilier. <br>C'est le co-investisseur A.<br>Son rôle va permettre à un <br>co-acheteur B de réaliser l'acquisition du bien immobiler choisi.<br><br>Ce co-acheteur c'est Mr ou Mme B sera le second co-propriétaire et locataire du même bien au sein de la même SCI, chacun proportionnement à son apport<br> <br><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"QUESTIONS.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PLUS D'INFOS<br></a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "cash",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title4": "<span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">Vous souhaitez investir..<br></span><br>",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Avantage Investisseur<br>Quel est le Profil investisseur :<br>chercher et choisir un bien immobilier selon des critères (neuf ou ancien, emplacement géographique, catégorie d'utilisation de ces biens...)<br>en assumer le financement<br>réaliser éventuellement des travaux<br>trouver des locataires successifs solvables et durables,<br>faire face aux vacances et/ou contentieux<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"INVESTISSEURS.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PLUS D'INFOS</a>",
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "smile-face",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title5": "Vous êtes locataire",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "<br>Avantage Locacheteur<br>Motivé parce qu’il est locataire actuellement, Monsieur ou Madame B a l’opportunité de vivre dans un appartement qui lui appartient en partie et qu’il va payer – à la place de son loyer actuel.<br>Alors qu’ il règle le montant mensuel du prêt contracté, il capitalise également ne paie plus un loyer à fonds perdu..Ceci est un atout pour l’investisseur tranquillisé sur la bonne fin de son investissement, à savoir trouver un locataire qui paiera en temps et heure son rembousement.<br>",
+          "button5": "<a data-app-btn=\"true\" href=\"LOCACHETEURS.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PLUS D'INFOS</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-6",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Devenir Co-proprietaire? C'est possible.",
+          "meta": "par Maitre Lachaume, Notaire &amp; Maitre Bitoune, Avocat&nbsp;"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-7",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Vous êtes locataires depuis longtemps</b>.</p><p>Trop longtemps, même!</p><p>Mais sans apport difficile de devenir propriétaire</p><p>Pourtant vos revenus vous permettraient de payer un remboursement de crédit .</p><p>Appart A 2 est la pour vous proposer une solution qui vous permet d’acheter un bien  que vous pourrez occuper en vous associant avec un tiers investisseur dans le cadre d’une SCI patrimoniale</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-8",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>Nous vous proposons de calculer votre capacité d’emprunt.<br><span style=\"font-size: 1.09rem; line-height: 1.5;\">Sur ce site vous pourrez évaluer la somme que vous pourrez emprunter.<br></span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Attention!<br>N’oubliez pas d’inclure les frais annexes comme la constitution de la SCI et les honoraires d’ Appart A2</span></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-g",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "57",
+            "paddingTop": 0,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/infographie-france-century21-1400x923.jpg",
+              "link": "QUESTIONS.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "C'EST LE MOMENT D'ACHETER<br>",
+          "text": "Enfin une bonne nouvelle pour les acheteurs potentiels de logement. Après quinze ans de hausse quasi ininterrompue, les prix de l'immobilier ancien ont amorcé une réelle décrue depuis mi-2015 en France. «Entre  août 2014 et mars 2016, les prix constatés lors des promesses de vente concernant des appartements anciens ont baissé de 7 % dans l'Hexagone», explique-t-on à la chambre des notaires de France. <br>Même à Paris, où l'envolée des tarifs avait continué plus longtemps qu'ailleurs, ce recul est bien réel. Aujourd'hui, le mètre carré moyen se paye 9080 € dans la capitale contre 10460 €, le niveau record atteint l'été dernier. Un recul de 6,5%.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"LOCACHETEURS\" data-toolbar=\"-mbrBtnMove\">EN SAVOIR PLUS</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1m",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2013-2018 APPARTA2<br>GROUPE 2A2 FRANCE | MENTIONS LEGALES"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1q",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/ptz-1-1400x1244.png",
+              "link": "CONTACT.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "PROFITEZ DES MEILLEURS TAUX ET DES PRETS BONIFIES",
+          "text": "Grace à nos partenaires, nous vous proposons les meilleurs opportunités de financements , ainsi que le support juridique de nos équipes partout en France.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"CONTACT.html\" data-toolbar=\"-mbrBtnMove\">EN SAVOIR PLUS</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-1w",
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Soyez informé",
+          "subtitle": "Recevez gratuitement notre LETTRE D'INFORMATION<br>&nbsp;pour être au courant des nouvelles opportunités",
+          "form": {
+            "action": "guchik178@gmail.com",
+            "alerts": {
+              "success": " merci et à bientot!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Entrer votre email"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">S'INSCRIRE&nbsp;</a>"
+        }
+      ]
+    },
+    "INVESTISSEURS.html": {
+      "settings": {
+        "title": "Page des investisseurs",
+        "meta_descr": " Vous souhaitez investir .vous pouvez avoir besoin d’un conseil. notre expérience peut vous permettre d’acquérir un bien plus grand ou mieux placé"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#faaf40"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#faaf40"
+            },
+            ".link, .dropdown-item": {
+              "color": "#faaf40"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#faaf40",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-a",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#faaf40",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo2a2rouge-721x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": " ",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Apart4.2</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"BOURSE.html\">BOURSE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\" \" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">COMMENT CA MARCHE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"INVESTISSEURS.html\">INVESTISSEURS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LOCACHETEURS.html\">LOCACHETEURS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"QUESTIONS.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"SIMULATIONS.html\" aria-expanded=\"false\">SIMULATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACT.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-b",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "47",
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Quelques Données Juridiques",
+          "text": "<br><b>La SCI patrimoniale<br></b>par Maitre Bitoune<br><br>La SCI est une solution pratique et aisée pour gérer un patrimoine immobilier. une SCI est une société, donc une personne morale. elle est constituée par les associés, en rapport avec un bien immobilier.<br>\n<br><b>Les avantages fiscaux des SCI sont nombreux :\n</b><br>Et la revente des parts de SCI après 15 ans de détention est exonérée d'impôt sur les plus-values, comme dans le cas d’une habitation principale indépendamment de la date d'entrée des biens dans le patrimoine de la SCI (en savoir plus : fiscalité de la SCI).\n<br>D'autres avantages sont lies à la succession\n<br>La transmission peut se faire au fur et à masure, sans impact sur la gestion.\n<br>En autre La SCI permet de mettre à l'abri ses locaux professionnels contre les risques de redressement ou de liquidation judiciaire de sa société .\n<br>\n<br><b>APPART A2 vous apporte son expertise pour que la réalisation de vos projets soit adapte a la structure de la SCI patrimoniale&nbsp;</b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "B": {
+              "font-size": "23px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-c",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "40",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Vous souhaitez investir..",
+          "text": "<b><i>Soyons clairs : il existe heureusement des personnes pouvant investir sans avoir recours a nous.</i></b><br>Mais même elles peuvent avoir besoin d’un conseil. <br>De plus <b>notre expérience peut vous permettre d’acquérir un bien plus grand ou mieux placé.</b><br><br><b>Autre cas de figure</b><br>Vous souhaitez investir mais vous ne pouvez pas forcément acheter. Les raisons ?<br><b>L’âge</b><br>A&nbsp;partir d’un certain âge les banques ne souhaitent plus prêter<br><b><br>La location</b><br>Les risques liées a la location sont minimes mais réels<br>Si vous êtes vous mêmes en train de rembourser un prêt ou un crédit<br>il s’agit pour vous d’être sur d’avoir un locataire sérieux,<br>et qui serait plus sérieux que celui qui loge et occupe le logement que par ailleurs, il rembourse pour se constituer un patrimoine ?<br><br><b>La transmission</b><br>Un des avantages de la sci patrimoniale c’est qu’en tant que societe elle est protegée des aléas juridiques. ce qui constitue une assurance de transmission securisée . <br>Ce qui est un plus indéniable aujourdhui<br><br><b>La  Donation / Partage</b><br>Comment faire lorsqu’on souhaite aider un enfant et que la loi vous limite dans les donations du vivant de la personne ? &nbsp;<br>Notre approche vous permet un <b>retour sur investissement</b> basé sur la valeur de la pierre <b>plus un bonus locatif..</b><br>Dans cette transaction, vous avez le seul bien qui prendra de la valeur avec les années parce qu’il existe une demande toujours plus forte et une offre toujours plus restreinte en termes de disponibilités et d’opportunités.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "left"
+            },
+            "SPAN": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box5-e",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x2005.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Appart A 2 vous donne tous les avantages de la SCPI",
+          "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Sans le risque lié à l'immobilier de bureaux associé à la sécurité liée à l'investissement \" Pierre\"</b></span><br><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Tranquillité</b> : l'associé se décharge des préoccupations quotidiennes en confiant l’investissement et la gestion de son patrimoine à des professionnels qui font fructifier le patrimoine de la SCPI avec une efficacité optimale. L'associé reçoit ainsi selon une fréquence régulière les revenus issus de l’exploitation locative des immeubles ;</span><br><b><br>L'effet de taille et la mutualisation des risques locatifs, géographiques et par typologie d’immeubles. </b><br>Quand un local est vacant ou qu'un locataire cesse de verser ses loyers, la charge est largement diluée à l'échelle d'une SCPI. De même l’investissement sur des marchés géographiques différents et sur plusieurs types d’actifs (bureaux, commerces, …) permet de mutualiser les risques ;<br><br><b>la souplesse et la simplicité:</b> grâce à la SCPI, l'épargne immobilière devient accessible à tous. Il est possible d'accéder au marché des parts de SCPI pour quelques centaines d'euros. En devenant associé d'une SCPI, l'emprunt n'est donc plus une condition nécessaire pour investir dans la pierre. Il est par ailleurs possible de ne céder ou transmettre qu'une partie de son épargne sans remettre l'ensemble en cause ;<br><br><b>l'accès optimisé au marché </b>: le placement en parts de SCPI permet d'accéder à l'immobilier d'entreprise traditionnellement réservé aux investisseurs institutionnels, compte tenu du montant des capitaux nécessaires à ce type d'acquisition.<br> <br><b><i>Actuellement, près de 94% de la capitalisation des SCPI sont concentrés sur les bureaux et les locaux commerciaux..</i></b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-1u",
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Soyez informé",
+          "subtitle": "Recevez gratuitement notre LETTRE D'INFORMATION<br>&nbsp;pour être au courant des nouvelles opportunités",
+          "form": {
+            "action": "guchik178@gmail.com",
+            "alerts": {
+              "success": " merci et à bientot!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Entrer votre email"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">S'INSCRIRE&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1m",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2013-2018 APPARTA2<br>GROUPE 2A2 FRANCE | MENTIONS LEGALES"
+        }
+      ]
+    },
+    "LOCACHETEURS.html": {
+      "settings": {
+        "title": " la page des locataires co-acheteurs",
+        "meta_descr": " "
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "32px"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "24px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-n",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "7",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "title": "S'INSCRIRE A LA BOURSE INVESTISSEUR DES LOCACHETEURS&nbsp;",
+          "meta": "EN TOUTE CONFIDENTIALITE"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-o",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<h3>&nbsp;Co-proprietaire dès à présent ? C'est possible !<br></h3>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#800000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#800000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#800000"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#800000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-f",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#faaf40",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo2a2rouge-721x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Apart4.2</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"BOURSE.html\">BOURSE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\" \" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">COMMENT CA MARCHE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"INVESTISSEURS.html\">INVESTISSEURS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LOCACHETEURS.html\">LOCACHETEURS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"QUESTIONS.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"SIMULATIONS.html\" aria-expanded=\"false\">SIMULATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACT.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-m",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<h4>DÉFINIR VOS CRITÈRES POUR L'ACQUISITION DE VOTRE PREMIER<br>BIEN IMMOBILIER.</h4><p><br></p><p>Vous définissez où vous souhaitez acheter, quel type de bien, quel est le montant de votre investissement possible. Exemple: 3 pièces dans l'est parisien - pour un apport de 100 K€.</p><p>Nous vous mettons alors en rapport avec un futur locataire co-acheteur qui a choisi les mêmes critères que vous. Après, à vous de décider si vous donnez suite ou non à cette proposition.</p><p>Nous travaillons sous le contrôle du service juridique d'un cabinet d'avocats à Paris qui contrôle le bon suivi des demandes et établira les statuts de la future SCI et des dispositions contractuelles en fonction de vos demandes</p><p>&nbsp;</p><p><i style=\"font-weight: bold;\">Important : </i><i>Notre base de données est strictement confidentielle et ne saurait être divulguée à des tiers.</i></p>",
+          "text2": "<p><span style=\"color: inherit; font-family: Montserrat, sans-serif; font-size: 1.5rem; font-weight: 600; line-height: 1.1;\">C'EST LE BON MOMENT POUR VOUS LANCER</span><br></p><br><p></p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Enfin une bonne nouvelle pour les acheteurs potentiels de logement. Après quinze ans de hausse quasi ininterrompue, les prix de l'immobilier ancien ont amorcé une réelle décrue depuis mi-2012 en France. «Entre  août 2012 et mars 2013, les prix constatés lors des promesses de vente concernant des appartements anciens ont baissé de 7 % dans l'Hexagone», explique-t-on à la chambre des notaires de France. Même à Paris, où l'envolée des tarifs avait continué plus longtemps qu'ailleurs, ce recul est bien réel. Aujourd'hui, le mètre carré moyen se paye 8080 € dans la capitale contre 8460 €, le niveau record atteint l'été dernier. Un recul de 4,5%.</span><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-20",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "47",
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://youtu.be/67xgQSG0w64",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "AUSSI SIMPLE QUE CA",
+          "text": "Regardez cette video pour mieux comprendre et appelez nous après.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"CONTACT.html\" data-toolbar=\"-mbrBtnMove\">EN SAVOIR PLUS</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1y",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "60",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/a-vendre-1400x787.jpg",
+              "link": "QUESTIONS.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "VOUS AUSSI POUVEZ L'ACHETER",
+          "text": "Nous sommes là pour vous aider à &nbsp;devenir &nbsp;propriétaire",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"CONTACT.html\" data-toolbar=\"-mbrBtnMove\">EN SAVOIR PLUS</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1m",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2013-2018 APPARTA2<br>GROUPE 2A2 FRANCE | MENTIONS LEGALES"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-1v",
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Soyez informé",
+          "subtitle": "Recevez gratuitement notre LETTRE D'INFORMATION<br>&nbsp;pour être au courant des nouvelles opportunités",
+          "form": {
+            "action": "guchik178@gmail.com",
+            "alerts": {
+              "success": " merci et à bientot!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Entrer votre email"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">S'INSCRIRE&nbsp;</a>"
+        }
+      ]
+    },
+    "QUESTIONS.html": {
+      "settings": {
+        "title": " questions frequentes",
+        "meta_descr": "     A qui s’adresse Appart A 2\n\n    A tous ceux qui ont un projet immobilier ou un projet d’investissement immobilier. Un des problèmes récurrents aujourd’hui dans l’acquisition d’un appartement est dans le cas d’un primo accédant de trouver un apport et dans le cas d’un investisseur de trouver un bon locataire\nLe concept d’appart A2 est de mettre en relation ces 2 prospects pour un même bien immobilier sous forme de SCI."
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#faaf40"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#faaf40"
+            },
+            ".link, .dropdown-item": {
+              "color": "#faaf40"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#faaf40",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-p",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#faaf40",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo2a2rouge-721x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Apart4.2</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"BOURSE.html\">BOURSE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\" \" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">COMMENT CA MARCHE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"INVESTISSEURS.html\">INVESTISSEURS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LOCACHETEURS.html\">LOCACHETEURS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"QUESTIONS.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"SIMULATIONS.html\" aria-expanded=\"false\">SIMULATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACT.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "B": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "SPAN": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "20px",
+              "color": "#000000",
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-w",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "5",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Quelques Questions&nbsp;",
+          "meta": "<span style=\"font-style: normal;\"><b>que vous vous posez &amp; auxquelles nous avons repondu&nbsp;</b></span>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-x",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><b>A qui s’adresse Appart A 2</b></blockquote><blockquote>A tous ceux qui ont un projet immobilier  ou un projet d’investissement immobilier. Un des problèmes  récurrents aujourd’hui dans l’acquisition d’un appartement est dans le cas d’un primo accédant de trouver un apport et dans le cas d’un investisseur de trouver un bon locataire</blockquote><blockquote>Le concept d’appart A2 est de mettre en relation ces  2 prospects pour un même bien immobilier sous forme de SCI.</blockquote><blockquote><b><br></b></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-y",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<blockquote><b>Comment être sur de mon investissement ?</b></blockquote><blockquote>Que vous soyez investisseur ou Co-investisseur locataire, le contrat APPART A  est régi par les lois en vigueur .Nous avons mis en place des procédures pour vous garantir que vous êtes libre à tout moment de sortir du contrat comme dans le cas d'un PEL et vous avez la possibilité de mettre un terme au contrat  dans les conditions par sortie anticipée</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-z",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><b>Comment ca se passe?</b></blockquote><blockquote>L’investisseur Monsieur  A apporte en fonds propres au sein de la SCI les X % nécessaires  à l’acquisition du bien immobilier.<br><span style=\"font-size: 1.09rem; line-height: 1.5;\">Monsieur L   sera le second copropriétaire du même bien au sein de la même SCI en contractant le pret sur les Y % restants pour cette acquisition.<br>Chacun à hauteur de leur apport respectif seront copropritaires de la SCI constituée pour l'achat du bien</span></blockquote><blockquote>Double avantage:<br><span style=\"font-size: 1.09rem; line-height: 1.5;\">Motivé parce qu’il est locataire actuellement, Monsieur L a l’opportunité de vivre dans un appartement qui lui appartient-en partie- et qu’il va payer –en place de son loyer actuel- En même temps qu’il règle le montant mensuel du prêt contracté .<br>Ceci est un atout pour l’investisseur tranquillisé sur la bonne fin de son investissement, à savoir trouver un locataire qui paiera en temps et heure son loyer.<br></span></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-10",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<blockquote><b>Pour combien de temps est conclu le contrat?</b></blockquote><blockquote><p>Le contrat est conclu pour toute la durée de l’emprunt contracté aux fins de remboursement. <br><span style=\"font-size: 1.09rem;\">Celui-ci est pris en charge par monsieur L.</span><br></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">Les deux parties sont solidairement caution auprès de l’organisme préteur (Banque ou autre)&nbsp;<br>Il est prévu des des options de sortie -&nbsp;</span></p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-11",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><b>Sorties&nbsp;</b></blockquote><blockquote><p>Le contrat prend en charge également les conditions de sortie de la SCI par l’une ou l’autre des parties.Ces modalités font partie des articles regissant la SCI<br><span style=\"font-size: 1.09rem; line-height: 1.5;\">Ces  sorties sont prévues avant les dates d’échéance afin de permettre le rachat ou la cession des parts afin de permettre  aux deux parties de trouver un financement ou un acquéreur pour les parts de la SCI .<br>Tous les cas sont prévus conformément aux lois regiss</span>ant les SCI patrimoniales.</p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-14",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<blockquote><b>Divorce / Séparation</b></blockquote><blockquote><p>Dans le cas d’un divorce ou d’une séparation, d’une rupture de PACS ou autre, de l’une des parties, les règles applicables sont celles prévues par la loi en vigueur en tant que telle.</p><p><b><br></b></p><p><b>Décès / Héritage\n<br><br></b></p><p>En cas de décès d’une des parties la loi usuelle s’applique dans les mêmes conditions.</p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-15",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><b>Défaut de Paiement</b></blockquote><blockquote>En cas de défaut de paiement par le locataire co-acheteur et au terme des relances légales , ce dernier perdra tout le benefice des sommes payées. la proprieté pleine et entière reviendra au seul co-propriétaire investisseur, qui aura loisir de s'en défaire ou de trouver un autre candidat locataire auprès de la Bourse Apparta2<br></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-16",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<blockquote><b>Bourse aux investisseurs/ locataires</b></blockquote><blockquote>APPARTA2 met en place 2 bourses.<br><span style=\"font-size: 1.09rem; line-height: 1.5;\">La première destinée aux futurs investisseurs au travers de contacts avec les organismes bancaires mais aussi les professionnels de l’immobilier.<br></span><span style=\"font-size: 1.09rem; line-height: 1.5;\">C’est la bouse aux investisseurs.</span></blockquote><blockquote>De manière parallèle est mise en place une bourse des primo-accédant qui souhaitent acheter et peuvent payer un remboursement sans pour autant en avoir un apport. La suite fait l’objet du contrat décrit ci-dessus .<br>C’est la bouse aux primo-accédant</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1r",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><b>Comment se fait le choix du bien immobilier ?</b></p><p><br></p><p>Le choix del'appartement ou de la maison de nedépend pas de nous .vous exprimez vos choix dans le formulaire d'inscription de la bourse et comme pour un site de rencontre , nous vous mettons en relation avec la ou les personnes qui ont opéré les memes choix: cela inclut la localisation, le type de bien, le moment du bien immobilier etc..<br>Nos partenaires peuvent évidemment vous aider comme dans le cas d'une agence immobilière classique. Mais en bout de processus, c'est vous qui choisissez, y compris avec qui vous allez faire affaire.</p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-17",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<blockquote><b>Emoluments d’APPARTA2</b></blockquote><blockquote>APPART A 2 est rémunère  de deux façons:<br><span style=\"font-size: 1.09rem; line-height: 1.5;\">L'inscription au site de bourse d'échange de souhaits d'un montant de 12 euros par mois ou 100 euros par an.<br></span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Nous percevons également un pourcentage si une vente effective a été réalisée sur la base du tarif des agents immobiliers.</span></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-18",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>Vous n'avez pas trouvé la réponse à votre question <b><a href=\"CONTACT.html\" target=\"_blank\">cliquez ici</a></b></blockquote>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-1o",
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "RECEVEZ NOTRE LETTRE D'INFORMATION",
+          "subtitle": "ET SOYEZ INFORMES DES DERNIERES OPPORTUNITES",
+          "form": {
+            "action": "guchik178@gmail.com",
+            "alerts": {
+              "success": "vous êtes maintenant inscrit .Merci et à bientôt!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Votre Email"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">S'INSCRIRE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1m",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2013-2018 APPARTA2<br>GROUPE 2A2 FRANCE | MENTIONS LEGALES"
+        }
+      ]
+    },
+    "CONTACT.html": {
+      "settings": {
+        "title": "CONTACTEZ NOUS",
+        "meta_descr": " SARL 2A2\nINTERMEDIAIRE FINANCIER ET IMMOBILIER\n"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#800000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#800000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#800000"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#800000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-q",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#faaf40",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo2a2rouge-721x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Apart4.2</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"BOURSE.html\">BOURSE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\" \" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">COMMENT CA MARCHE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"INVESTISSEURS.html\">INVESTISSEURS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LOCACHETEURS.html\">LOCACHETEURS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"QUESTIONS.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"SIMULATIONS.html\" aria-expanded=\"false\">SIMULATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACT.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            "P": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "msg-box4-r",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "57",
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x932.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Accessibilité<br>à la Propriété.",
+          "text": "<p>en toute tranquillité</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"QUESTIONS.html\" data-toolbar=\"-mbrBtnMove\">EN SAVOIR PLUS</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-s",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><b>Nous avons choisi comme symbole de ce nouveau concept de mise en relation, l’icone qui signifie partager.</b></blockquote><blockquote><p>Partage des mêmes valeurs&nbsp;<br><span style=\"font-size: 1.09rem; line-height: 1.5;\">Partage du même bien<br></span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Partage de la volonté  d'avancer<br></span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Une solidarité nouvelle entre deux personnes , deux familles &nbsp;, deux entités , deux amis pour permettre à chacun d'être&nbsp;<br></span><span style=\"font-size: 1.09rem; line-height: 1.5;\"><b>Gagnant - Gagnant</b></span></p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "form1-u",
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "CONTACTEZ NOUS",
+          "subtitle": "Toutes les questions n'ont pas été posées. Posez nous les vôtres",
+          "form": {
+            "action": "guchik178@gmail.com",
+            "alerts": {
+              "success": "Merci de votre intérêt, nous vous recontactons très vite!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nom*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Mobile*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACTEZ NOUS</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "text": "<p>“Le système de bourse est effectivement un moyen rapide de mettre en place un investissement valable<br>La liberté qui nous est offerte de choisir un partenaire est une garantie que les remboursements se feront en temps et en heure\"</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/testimonial-andrew-141x141.png",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              },
+              "authorName": "Roger Z.",
+              "authorBio": "Co investisseur"
+            },
+            {
+              "text": "<p>“ Je ne pouvais pas acheter d'appartement. Le système de bourse m'a permis de rencontrer Monsieur R .. qui est devenu de fait mon copropriétaire mais également un ami depuis .<br>Je trouve ce système ingénieux et je le recommande qui ne peuvent constituer un apport de départ”</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/testimonial-melissa-141x141.png",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              },
+              "authorName": "Myriam L.",
+              "authorBio": "Locacheteur"
+            },
+            {
+              "text": "<p>“ J'aimerais souligner la souplesse dans le choix du bien mais également du co-emprunteur .Il est clair que ce système d'investissement permet de multiplier permet d'accroître son parc immobilier à moindre coût sans avoir se préoccuper de la question cruciale de trouver un locataire sur et fiable.”</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/testimonial-luke-141x141.png",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              },
+              "authorName": "Leo C.",
+              "authorBio": "Co investisseur"
+            }
+          ],
+          "_anchor": "testimonials1-t",
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "CE QU'EN DISENT LES INTERESSES",
+          "subtitle": "Une collection de témoignages de nos premiers \"boursiers\""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-v",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "27 rue rebeval75019 paris\n",
+              "placeId": "ChIJlaYgledt5kcRd9l-gvyiips",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Adresse</strong><br>SARL 2A2 <br>INTERMEDIAIRE FINANCIER ET IMMOBILIER<br><br><br>\n<strong>Contacts</strong><br>\nEmail:&nbsp;<a href=\"mailto:contact@apparta2.tk\">contact@apparta2.tk</a><br>Telephone: <a href=\"tel:+33 -1-77473650\">+33 -1-77473650</a><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Liens</strong></p><ul><li><a href=\"http://www.logement.gouv.fr/\" target=\"_blank\">MINISTERE DU LOGEMENT</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"http://www.pret-accession-sociale.com/\" target=\"_blank\">PRET A L'ACCESSION SOCIALE</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"https://www.service-public.fr/particuliers/vosdroits/F10871\" target=\"_blank\">PRET A TAUX ZERO</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1m",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2013-2018 APPARTA2<br>GROUPE 2A2 FRANCE | MENTIONS LEGALES"
+        }
+      ]
+    },
+    "BOURSE.html": {
+      "settings": {
+        "title": "TOUT SUR LA BOURSE AUX ACCEDANTS",
+        "meta_descr": " TOUT SUR LA BOURSE AUX ACCEDANTS"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#800000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#800000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#800000"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#800000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-19",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#faaf40",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo2a2rouge-721x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Apart4.2</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"BOURSE.html\">BOURSE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\" \" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">COMMENT CA MARCHE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"INVESTISSEURS.html\">INVESTISSEURS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LOCACHETEURS.html\">LOCACHETEURS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"QUESTIONS.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"SIMULATIONS.html\" aria-expanded=\"false\">SIMULATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACT.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "32px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1a",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "6",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "<span style=\"color: inherit; line-height: 1.1;\">POURQUOI &nbsp;S'INSCRIRE A LA BOURSE&nbsp;</span><br>INVESTISSEURS &nbsp;&amp; &nbsp;LOCATAIRES <br>",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-1d",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>LIBERTE TOTALE DE CHOIX&nbsp;</b></p><p><br></p><p>Cette inscription nous permet de définir <b>quels sont vos critères pour l'acquisition de votre bien immobilier.</b> <br>Vous définissez <b>où</b> vous souhaitez acheter, <b>quel type de bien</b>, quel est <b>le montant de votre investissement</b> possible. <br></p><p><i><b>Prenons un exemple: <br></b>vous souhaitez acquerir un 3 pièces dans l'est parisien - pour un apport de 100 K€.</i></p><p><b>Nous vous mettons alors en rapport</b> avec un futur locataire co-acheteur qui a choisi les mêmes critères que vous. <br>Après, <b>à</b> <b>vous de décider si vous donnez suite </b>ou non à cette proposition.</p><p><br></p>",
+          "text2": "<p><b>SECURITE &amp; ENCADREMENT LEGAL<br><br></b></p><p>Nous travaillons <b>sous le contrôle du service juridique</b> d'un cabinet d'avocats à Paris qui contrôle le bon suivi des demandes et établira <b>les statuts de la future SCI </b>et des dispositions contractuelles en fonction de vos demandes</p><p><br></p><p><b>CONFIDENTIALITE TOTALE&nbsp;</b></p><p>&nbsp;</p><p><span style=\"font-size: 1.07rem;\">Notre base de données est </span><b style=\"font-size: 1.07rem;\">strictement confidentielle </b><span style=\"font-size: 1.07rem;\">et ne saurait être divulguée à des tiers.&nbsp;</span></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1s",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/nen-revez-plus-1400x1034.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "N'EN REVEZ PLUS!",
+          "text": "<p>&nbsp; &nbsp; Pas encore décidé à passerà l'achat?.<br><a href=\"tel:+33-1-77473650\">Appelez nous pour une étude gratuite de votre cas.</a><br></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"CONTACT.html\" data-toolbar=\"-mbrBtnMove\">EN SAVOIR PLUS</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials2",
+          "testimonial": [
+            {
+              "text": "<p>“ le must de l'agence immobilere: non seumement ils vous aident a trouver votre appartement mais aussi celui qui va vous aider à l'acheter . trop coool! \"</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Amelie &nbsp;S.",
+              "authorBio": "Institutrice à Livry Gargan -93"
+            },
+            {
+              "text": "<p>“Ideal pour un premier achat. Plus souple qu'une aquisition classique. Les services d'une banque et d'une agence au meme endroit . <br>Très satisafaite de l'accompagnement tout au long du processus d'achat”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Sophie A.",
+              "authorBio": "Dentiste à Chatillon -92"
+            },
+            {
+              "text": "<p>“j'ai pu acheter mon studio grâce à un incestisseur privé .Je crois que c'est un bon deal pour les 2 parties. En tout cas,en ce qui nous concerne , nous sommes tous les deux satisfaits de cette transaction.”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Lea C.",
+              "authorBio": "Avocate à Lille -59"
+            }
+          ],
+          "_anchor": "testimonials2-1e",
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.2
+          },
+          "title": "MERCI A CEUX QUI NOUS ONT CONFIANCE",
+          "subtitle": "<br>ET BIENVENUE AUX NOUVEAUX FUTURS ACCEDANTS"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-1t",
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Soyez informé",
+          "subtitle": "Recevez gratuitement notre LETTRE D'INFORMATION<br>&nbsp;pour être au courant des nouvelles opportunités",
+          "form": {
+            "action": "guchik178@gmail.com",
+            "alerts": {
+              "success": " merci et à bientot!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Entrer votre email"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">S'INSCRIRE&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1m",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2013-2018 APPARTA2<br>GROUPE 2A2 FRANCE | MENTIONS LEGALES"
+        }
+      ]
+    },
+    "SIMULATIONS.html": {
+      "settings": {
+        "title": "FAITES DES SIMULATIONS POUR MIEUX COMPRENDRE",
+        "meta_descr": "FAITES DES SIMULATIONS POUR MIEUX COMPRENDRE"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#800000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#800000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#800000"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#800000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1g",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#faaf40",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo2a2rouge-721x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Apart4.2</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"BOURSE.html\">BOURSE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\" \" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">COMMENT CA MARCHE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"INVESTISSEURS.html\">INVESTISSEURS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LOCACHETEURS.html\">LOCACHETEURS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"QUESTIONS.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"SIMULATIONS.html\" aria-expanded=\"false\">SIMULATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACT.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1l",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "6",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "2 EXEMPLES POUR COMPRENDRE",
+          "meta": "par Thierry Lepin, Cabinet Lachaume , Paris"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "msg-box5-1h",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "45",
+            "paddingTop": "1",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/emprunt200-1400x1510.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Acquisition d'un appartement <br>à Massy 91",
+          "text": "- de 3 ;pieces 250k€ frais de notaire inclus<br>investisseur 50 k€   credit 200k€<br> <br>remboursement de l'emprunt 1212 € mensuels sur 20 ans a 4%<br> <br>monsieur et madame locataire gagnent à eux deux 4000 €€ par mois <br>avec une capacite de remboursement de +/- 1350 € par mois.<br> <br>monsieur investisseur touchera par mois 130€ en plus <br>des 20 % des parts dans la sci  patrimoniale.soit 1560 € par an <br>soit 3.2 % environ par an<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"CONTACT.html\" data-toolbar=\"-mbrBtnMove\">PLUS D'INFOS</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "msg-box5-1i",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "46",
+            "paddingTop": "2",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/emprunt2-1400x1474.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Acquisition d'un appartement à <br>Courbevoie 92",
+          "text": "- de 4 ;pieces 440 000 €€  frais de notaire inclus<br>investisseur 140 000   credit 300 000<br> <br>remboursement de l'emprunt 1318 € mensuels sur 20 ans à  4%<br> <br>monsieur et madame locataire gagnent a eux deux 6000 €€ par mois <br>avec une capacite de remboursement de +/- 2000 € par mois.<br> <br>monsieur investisseur touchera par mois 470 € en plus <br>des 20 % desparts dans la sci  patrimoniale.soit 5700 € par an  <br>soit environ 5% net en plus des 32% des parts de la sci patrimoniale<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"CONTACT.html\" data-toolbar=\"-mbrBtnMove\">PLUS D'INFOS</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1m",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2013-2018 APPARTA2<br>GROUPE 2A2 FRANCE | MENTIONS LEGALES"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-1n",
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Soyez informé",
+          "subtitle": "Recevez gratuitement notre LETTRE D'INFORMATION<br>&nbsp;pour être au courant des nouvelles opportunités",
+          "form": {
+            "action": "guchik178@gmail.com",
+            "alerts": {
+              "success": " merci et à bientot!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Entrer votre email"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">S'INSCRIRE&nbsp;</a>"
+        }
+      ]
+    }
+  }
+}
